@@ -1,0 +1,41 @@
+body {
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: #ffffffff;
+}
+
+header {
+    background-image: url(https://s3-alpha-sig.figma.com/img/33cb/ed23/52467636a4e78b808437da44d88be92b?Expires=1698019200&Signature=aCGu88LsnvJClSuvbJHtENZ82Dg~IVs8qE2KUa4jqKE1gtgSlMBa8aoV9D4iqJMMEjSEpvjET7sToTDrFZGs58jFiTYODG8bN4lE1s~5vZxzyoNF8G1Soo8tKW3O6ObaMImWX5JF32esiyALjrAc8xW7IQ0FOgII-PjR9kS4KFbQqmAPi3qiZun0rfP6AJsJUR0c9laywdJEBDeTtWnRWGuiFXAmSp6hDe0dg89r639SjsNQ1KfoTaa-GoXATA8NXihrW2qRASG7QUYgwfHnPh2w7ohMoiWjW6ZvBJp2Hu63YkEgZcxp9Bgx7RWeCiFUmpTAG7Fna~Z5pciwPA-KBQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4) ;
+    color: #ffffff;
+    text-align: center;
+    padding: 3px;
+}
+
+section {
+    margin: 20px;
+
+}
+
+h2 {
+    color: #ffffff;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
